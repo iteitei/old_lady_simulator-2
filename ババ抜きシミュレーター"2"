@@ -222,7 +222,7 @@ button{
 <div class="screen" id="screen2_5">
     <h1>あなたはババ抜きの最後の状況にいます。</h1>
     <h2>どちらかはジョーカーです。ジョーカーじゃないと思うカードを選んでください。</h2>
-    <div id="infoText25">「左側にジョーカーを持ってないか絶対に左側を選べ！！」</div>
+    <div id="infoText25">「左側にジョーカーを持ってないから絶対に左側を選べ！！」</div>
     <div class="cards">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Card_back_06.svg" class="card" id="leftCard25">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Card_back_06.svg" class="card" id="rightCard25">
